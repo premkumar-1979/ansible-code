@@ -14,3 +14,4 @@
    handlers:
       - name: "httpd_restart"
         service: name=httpd state=restarted
+$2a$10$2k7oykdzLljKy0.q5GReFuMBI8PgjhXHqEHVEtWZGYC8gaoZR99Va
